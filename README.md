@@ -3,10 +3,14 @@ Coding lessions I've learned.
 
 
 ## Table of contents
-- [Fuc*ing encoding Python](https://github.com/timothyverhaeghe/lessons#1-fucing-encoding-python)
+- [Markdown cheat sheet](https://github.com/timothyverhaeghe/lessons#1-great-resources)
+- [Fuc*ing encoding Python](https://github.com/timothyverhaeghe/lessons#2-fucing-encoding-python)
 
 ## Lessons
-### 1. Fuc*ing encoding Python
+### 1. Great resources
+- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+### 2. Fuc*ing encoding Python
 Because for some crazy reason Python decided to remove the default encoding feature (because this really works in Python 2.7). It really makes my life with Python3.7. So I spent hours / days / weeks on Stack overflow finding and trying any possible line of code to fix this bug. But NOTHING works (or I really suck 🧐).
 
 ```bash
