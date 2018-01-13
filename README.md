@@ -3,10 +3,10 @@ Coding lessions I've learned.
 
 
 ## Table of contents
-- 1. Fuc*ing encoding Python
+- (Fuc*ing encoding Python)[https://github.com/timothyverhaeghe/lessons#1-fucing-encoding-python]
 
-### Lessons
-#### 1. Fuc*ing encoding Python
+## Lessons
+### 1. Fuc*ing encoding Python
 Because for some crazy reason Python decided to remove the default encoding feature (because this really works in Python 2.7). It really makes my life with Python3.7. So I spent hours / days / weeks on Stack overflow finding and trying any possible line of code to fix this bug. But NOTHING works (or I really suck 🧐).
 
 ```bash
