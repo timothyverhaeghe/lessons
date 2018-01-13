@@ -1,6 +1,8 @@
 # Lessons
 Coding lessions I've learned.
 
+## Intro
+This is a list of lessons I've learned during my time as CTO at Taglayer. If you have tips / trics or additional tips, feel free to contact me at timothy@taglayer.com. Feel free to share your lessons and make the world a little bit better 💪🏻.
 
 ## Table of contents
 - [Markdown cheat sheet](https://github.com/timothyverhaeghe/lessons#1-great-resources)
@@ -8,7 +10,7 @@ Coding lessions I've learned.
 
 ## Lessons
 ### 1. Great resources
-- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### 2. Fuc*ing encoding Python
 Because for some crazy reason Python decided to remove the default encoding feature (because this really works in Python 2.7). It really makes my life with Python3.7. So I spent hours / days / weeks on Stack overflow finding and trying any possible line of code to fix this bug. But NOTHING works (or I really suck 🧐).
