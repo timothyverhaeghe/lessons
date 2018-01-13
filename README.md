@@ -17,6 +17,9 @@ print('?') # Not so ok, but it doesn't crash my entire system.
 print('\xe9')
 UnicodeEncodeError: 'ascii' codec can't encode character \xe9 in position 0: ordinal not in range(128)
 => ASSHOLES (ok. probaly I am the one who's casuing this problem)
+
+# See your charmap
+locale charmap # it works when this command returns 'UTF-8'
 ```
 
 I tried so many tips. From changing (and fucking up) my locale settings, to encoding / decoding my String in Python. Ending up without any solution. Finally I founded that the bug is not only "really" related to Python but to my Ubuntu version. So the solution: fucking my local setting even more. But I founded a solution (it's absolutly not the best solution, but it's a solution.).
