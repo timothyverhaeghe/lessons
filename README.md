@@ -2,7 +2,9 @@
 Coding lessions I've learned.
 
 ## Intro
-This is a list of lessons I've learned during my time as CTO at Taglayer. If you have tips / trics or additional tips, feel free to contact me at timothy@taglayer.com. Feel free to share your lessons and make the world a little bit better 💪🏻.
+This is a list of lessons I've learned during my time as CTO at Taglayer. If you have tips / tricks or additional tips, feel free to contact me at timothy@taglayer.com. Feel free to share your lessons and make the world a little bit better 💪🏻.
+
+First note: I still have a lot to learn, like... English 😂
 
 ## Table of contents
 - [Markdown cheat sheet](https://github.com/timothyverhaeghe/lessons#1-great-resources)
