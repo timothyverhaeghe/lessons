@@ -3,7 +3,7 @@ Coding lessions I've learned.
 
 
 ## Table of contents
-- (Fuc*ing encoding Python)[https://github.com/timothyverhaeghe/lessons#1-fucing-encoding-python]
+- [Fuc*ing encoding Python](https://github.com/timothyverhaeghe/lessons#1-fucing-encoding-python)
 
 ## Lessons
 ### 1. Fuc*ing encoding Python
