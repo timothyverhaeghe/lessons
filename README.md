@@ -15,7 +15,7 @@ First note: I still have a lot to learn, like... English 😂
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### 2. Fuc*ing encoding Python
-Because for some crazy reason Python decided to remove the default encoding feature (because this really works in Python 2.7). It really makes my life with Python3.7. So I spent hours / days / weeks on Stack overflow finding and trying any possible line of code to fix this bug. But NOTHING works (or I really suck 🧐).
+Because for some crazy reason Python decided to remove the default encoding feature (because this really works in Python 2.7). It really makes my life with Python3.7 so painful sometimes. So I spent hours / days / weeks on Stack overflow finding and trying any possible line of code to fix this bug. But NOTHING works (or I really suck 🧐).
 
 ```bash
 # Python 2.7
